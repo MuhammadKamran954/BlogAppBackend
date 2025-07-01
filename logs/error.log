@@ -1,0 +1,106 @@
+2025-05-05 15:32:01 [error] - {
+  "type": "ERROR",
+  "method": "GET",
+  "url": "/user_notification",
+  "message": "verifyTokenAndGetPayload is not defined",
+  "stack": "ReferenceError: verifyTokenAndGetPayload is not defined\n    at userNotificationController (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\app\\src\\notification\\controller\\controller.js:6:25)\n    at Layer.handleRequest (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\index.js:291:5)\n    at Function.handle (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\index.js:186:3)"
+}
+2025-05-05 15:44:34 [error] - [GET] /user_notification - verifyTokenAndGetPayload is not defined
+ReferenceError: verifyTokenAndGetPayload is not defined
+    at userNotificationController (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\app\src\notification\controller\controller.js:6:25)
+    at Layer.handleRequest (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\index.js:291:5)
+    at Function.handle (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\index.js:186:3)
+2025-05-05 15:56:56 [error] [node_modules\logform\combine.js:20] - {
+  "type": "ERROR",
+  "method": "GET",
+  "url": "/user_notification",
+  "message": "verifyTokenAndGetPayload is not defined",
+  "stack": "ReferenceError: verifyTokenAndGetPayload is not defined\n    at userNotificationController (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\app\\src\\notification\\controller\\controller.js:6:25)\n    at Layer.handleRequest (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\index.js:291:5)\n    at Function.handle (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\index.js:186:3)"
+}
+2025-05-05 15:56:56 [error] [node_modules\logform\combine.js:20] - [GET] /user_notification - verifyTokenAndGetPayload is not defined
+ReferenceError: verifyTokenAndGetPayload is not defined
+    at userNotificationController (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\app\src\notification\controller\controller.js:6:25)
+    at Layer.handleRequest (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\index.js:291:5)
+    at Function.handle (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\index.js:186:3)
+2025-05-05 15:59:07 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\logform\combine.js:20:24) - {
+  "type": "ERROR",
+  "method": "GET",
+  "url": "/user_notification",
+  "message": "verifyTokenAndGetPayload is not defined",
+  "stack": "ReferenceError: verifyTokenAndGetPayload is not defined\n    at userNotificationController (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\app\\src\\notification\\controller\\controller.js:6:25)\n    at Layer.handleRequest (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\index.js:291:5)\n    at Function.handle (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\index.js:186:3)"
+}
+2025-05-05 15:59:07 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\logform\combine.js:20:24) - [GET] /user_notification - verifyTokenAndGetPayload is not defined
+ReferenceError: verifyTokenAndGetPayload is not defined
+    at userNotificationController (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\app\src\notification\controller\controller.js:6:25)
+    at Layer.handleRequest (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\index.js:291:5)
+    at Function.handle (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\index.js:186:3)
+2025-05-05 16:00:18 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\logform\combine.js:20:24) - {
+  "type": "ERROR",
+  "method": "GET",
+  "url": "/user_notification",
+  "message": "getUserNotificationService is not defined",
+  "stack": "ReferenceError: getUserNotificationService is not defined\n    at userNotificationController (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\app\\src\\notification\\controller\\controller.js:9:22)\n    at Layer.handleRequest (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\index.js:291:5)\n    at Function.handle (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\index.js:186:3)"
+}
+2025-05-05 16:00:18 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\logform\combine.js:20:24) - [GET] /user_notification - getUserNotificationService is not defined
+ReferenceError: getUserNotificationService is not defined
+    at userNotificationController (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\app\src\notification\controller\controller.js:9:22)
+    at Layer.handleRequest (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\index.js:291:5)
+    at Function.handle (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\index.js:186:3)
+2025-05-06 13:37:14 [error] - {
+  "type": "ERROR",
+  "method": "POST",
+  "url": "/mark_as_read",
+  "message": "userId is not defined",
+  "stack": "ReferenceError: userId is not defined\n    at markAsReadController (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\app\\src\\notification\\controller\\controller.js:48:46)\n    at Layer.handleRequest (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\index.js:291:5)\n    at Function.handle (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\node_modules\\router\\index.js:186:3)"
+}
+2025-05-06 13:37:14 [error] - [POST] /mark_as_read - userId is not defined
+ReferenceError: userId is not defined
+    at markAsReadController (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\app\src\notification\controller\controller.js:48:46)
+    at Layer.handleRequest (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\index.js:291:5)
+    at Function.handle (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\node_modules\router\index.js:186:3)
+2025-05-06 17:03:05 [error] - {
+  "type": "ERROR",
+  "method": "GET",
+  "url": "/get_blog_by_id",
+  "message": "res.status(...) is not a function",
+  "stack": "TypeError: res.status(...) is not a function\n    at getBlogByIdController (C:\\Users\\Muhammad Kamran\\visual Studio Code\\node projects\\blog_app_backend\\app\\src\\blog_list\\controller\\controller.js:173:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"
+}
+2025-05-06 17:03:05 [error] - [GET] /get_blog_by_id - res.status(...) is not a function
+TypeError: res.status(...) is not a function
+    at getBlogByIdController (C:\Users\Muhammad Kamran\visual Studio Code\node projects\blog_app_backend\app\src\blog_list\controller\controller.js:173:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
